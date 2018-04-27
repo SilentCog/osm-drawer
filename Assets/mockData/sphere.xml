@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.54.13 ff15392f">
+	<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+	<meta osm_base="2018-03-31T21:46:02Z"/>
+	<node id="4892640834" lat="0" lon="0" version="2" timestamp="2017-10-25T16:18:35Z" changeset="53239766" uid="3022894" user="Lukas458" />
+	<node id="4979815787" lat="0" lon="90" version="1" timestamp="2017-07-19T15:15:48Z" changeset="50409166" uid="3022894" user="Lukas458" />
+	<node id="5179598101" lat="0" lon="180" version="1" timestamp="2017-10-21T09:58:15Z" changeset="53123652" uid="3022894" user="Lukas458" />
+	<node id="5179598102" lat="0" lon="-90" version="1" timestamp="2017-10-21T09:58:15Z" changeset="53123652" uid="3022894" user="Lukas458" />
+	<node id="5188911167" lat="90" lon="0" version="3" timestamp="2018-01-20T18:17:02Z" changeset="55609892" uid="7503247" user="cabroncito" />
+	<node id="5191153996" lat="-90" lon="0" version="1" timestamp="2017-10-26T14:55:43Z" changeset="53265496" uid="3022894" user="Lukas458" />
+	<node id="5291794053" lat="0" lon="0" version="1" timestamp="2017-12-18T14:39:41Z" changeset="54732714" uid="3022894" user="Lukas458" />
+	<node id="5291794054" lat="0" lon="0" version="1" timestamp="2017-12-18T14:39:41Z" changeset="54732714" uid="3022894" user="Lukas458" />
+	<way id="5980166" version="25" timestamp="2018-03-16T09:45:37Z" changeset="57236371" uid="6048057" user="truffle_pig">
+		<tag k="building" v="yes"/>
+		<nd ref="4892640834"/>
+		<nd ref="4979815787"/>
+		<nd ref="5179598101"/>
+		<nd ref="5179598102"/>
+		<nd ref="5188911167"/>
+		<nd ref="5191153996"/>
+		<nd ref="5291794053"/>
+		<nd ref="5291794054"/>
+	</way>
+</osm>
